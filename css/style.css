@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+body {
+background-color:#3385ff;
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+h1 {
+    color:;
+    margin-left: 20px;
+
+}
+
+ 
+#charlie{
+border-radius: 25px;
+border: 2px solid; 
+   background:red; 
+   }
